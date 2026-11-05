@@ -1,0 +1,77 @@
+{
+  "max_list": {
+    "type": "int",
+    "description": "等级 / 定数区间查询最多列出多少条谱面",
+    "default": 15
+  },
+  "alias_limit": {
+    "type": "int",
+    "description": "曲目信息里最多显示多少个别名",
+    "default": 10
+  },
+  "show_charter": {
+    "type": "bool",
+    "description": "曲目信息里显示谱师",
+    "default": true
+  },
+  "show_tags": {
+    "type": "bool",
+    "description": "曲目信息里显示谱面特征标签（交互/扫键/底力谱等）",
+    "default": true
+  },
+  "show_notes": {
+    "type": "bool",
+    "description": "曲目信息里显示音符总数",
+    "default": false
+  },
+  "inject_enabled": {
+    "type": "bool",
+    "description": "AI 对话中提到曲名时自动注入谱面资料",
+    "default": true
+  },
+  "inject_max_songs": {
+    "type": "int",
+    "description": "每次对话最多注入多少首歌的资料",
+    "default": 1
+  },
+  "max_message_chars": {
+    "type": "int",
+    "description": "单条回复的最大字数，超出截断",
+    "default": 3000
+  },
+  "manual_enabled": {
+    "type": "bool",
+    "description": "允许在聊天里手动添加/修改歌曲（关闭后所有写入命令都拒绝）",
+    "default": true
+  },
+  "admin_qq": {
+    "type": "string",
+    "description": "可写入的 QQ 号，逗号分隔；留空则只认 AstrBot 管理员",
+    "default": ""
+  },
+  "allow_all_edit": {
+    "type": "bool",
+    "description": "允许所有人手动写入（仅调试用，别在群里开）",
+    "default": false
+  },
+  "user_submit": {
+    "type": "bool",
+    "description": "允许普通用户用「舞萌 提交」提交条目给管理员审核",
+    "default": true
+  },
+  "manual_max": {
+    "type": "int",
+    "description": "手动库与待审核队列的上限条数",
+    "default": 200
+  },
+  "manual_session_ttl": {
+    "type": "int",
+    "description": "录歌引导会话的等待秒数，超时自动退出",
+    "default": 300
+  },
+  "manual_dir": {
+    "type": "string",
+    "description": "手动库目录（留空用 AstrBot 的 data/plugin_data/<插件名>，覆盖安装不会丢）",
+    "default": ""
+  }
+}

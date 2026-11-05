@@ -1,0 +1,8 @@
+name: astrbot_plugin_maimai_kb
+display_name: 舞萌DX知识库
+short_desc: 离线查舞萌DX定数、等级、别名与谱面特征
+desc: 离线查询舞萌DX歌曲的显示等级、精确定数、别名与谱面属性（国服曲库 + OneCat 官方谱面站，无模型幻觉）
+version: 1.5.0
+author: 何君豪
+repo: https://github.com/Oranven/astrbot_plugin_maimai_kb
+astrbot_version: ">=4.14.0"

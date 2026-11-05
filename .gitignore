@@ -1,0 +1,31 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 配置/敏感信息
+*.env
+*.env.local
+_config.yml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志
+*.log
+
+# AstrBot 运行时在仓库根目录生成的数据（测试残留，不属于插件）
+/data/
+
+# 版本更新备份
+.backups/
+
+# 构建产物（桌面插件包发布在独立仓库，不入源仓库）
+/dist/

@@ -1,0 +1,19 @@
+{
+  "updated_at": "2026-11-04",
+  "songs": 1294,
+  "unique_titles": 1293,
+  "categories": 6,
+  "charts": 5520,
+  "charts_with_ds": 5520,
+  "ds_sources": {
+    "onecat": 5508,
+    "divingfish": 12
+  },
+  "detail_sources": {
+    "divingfish": 5441,
+    "fallback": 79
+  },
+  "version": "CN1.56-E",
+  "source_updated": "2026-10-01",
+  "notes": "版本号与国服源更新日期来自 CrazyKidCN/maimaiDX-CN-songs-database README；统计字段由脚本写入。"
+}
