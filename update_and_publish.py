@@ -144,16 +144,17 @@ def update_plugin(args: argparse.Namespace) -> None:
     cmd = [sys.executable, UPDATER]
     if args.pack_only:
         cmd.append("--pack-only")
-    if args.dry_run:
-        cmd.append("--dry-run")
-    if args.skip_tests:
-        cmd.append("--skip-tests")
-    if args.offline:
-        cmd.append("--offline")
-    if args.timeout:
-        cmd.extend(["--timeout", str(args.timeout)])
-    if args.extra:
-        cmd.extend(args.extra)
+    else:
+        if args.dry_run:
+            cmd.append("--dry-run")
+        if args.skip_tests:
+            cmd.append("--skip-tests")
+        if args.offline:
+            cmd.append("--offline")
+        if args.timeout:
+            cmd.extend(["--timeout", str(args.timeout)])
+        if args.extra:
+            cmd.extend(args.extra)
 
     result = run(cmd, check=False)
     attempts = max(1, args.retries + 1)
@@ -236,9 +237,14 @@ def main() -> int:
     args, unknown = parser.parse_known_args()
     if unknown:
         args.extra.extend(unknown)
+    args.extra = [part for part in args.extra if part != "--"]
 
     if args.pack_only and args.extra:
         raise SystemExit("--pack-only 不能和额外的 update_all 参数一起用")
+    if args.pack_only and args.dry_run:
+        raise SystemExit("--pack-only 和 --dry-run 不能同时用。")
+    if args.skip_update and args.dry_run:
+        raise SystemExit("--skip-update 和 --dry-run 不能同时用。")
 
     if not args.skip_update:
         update_plugin(args)
