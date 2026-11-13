@@ -280,6 +280,7 @@ python scripts/maimai_lookup.py YOUR_TOKEN username example_user
 python scripts/update_all.py --dry-run     # 先看差异
 python scripts/update_all.py               # 备份 → 更新 → 测试
 python scripts/update_all.py --add-missing-charts   # 同时补上新增谱面（如 Re:MASTER）
+python update_and_publish.py               # 更新 → 测试 → 打包 → 推送源仓库和插件仓库
 python scripts/update_knowledge_base.py --validate-only
 ```
 
