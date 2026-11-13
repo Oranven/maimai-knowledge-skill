@@ -22,6 +22,7 @@
 | `scripts/maimai_utils.py` | 封面与拟合难度工具 |
 | `plugin/astrbot_plugin_maimai_kb/` | **AstrBot 插件**：用同一份快照做离线指令 + LLM 工具查询 |
 | `scripts/publish_plugin_repo.py` | 把插件同步成「仓库根即插件」的发布仓库并推送（AstrBot 从仓库更新用） |
+| `update_and_publish.py` | **一键更新并发布**：更新快照 → 测试 → 重打 zip → 推送源仓库和插件仓库 |
 | `dist/astrbot_plugin_maimai_kb.zip` | 可直接上传到 AstrBot 插件页的安装包 |
 | `dist/maimai-knowledge.zip` | Skills 包（给 AstrBot「技能」页 / OpenCode 用，不是插件） |
 
@@ -40,6 +41,25 @@ https://github.com/Oranven/astrbot_plugin_maimai_kb
 也可以继续上传 `dist/astrbot_plugin_maimai_kb.zip` 手动安装。
 
 发布新版本（本仓库改完后同步过去）：
+
+**一键更新并推送（推荐）**
+
+```bash
+python update_and_publish.py
+```
+
+它会依次：抓取最新国服快照 → 校验/测试 → 同步插件 `data/` → 重打 `dist/astrbot_plugin_maimai_kb.zip` → 提交并推送源仓库 → 同步并推送插件发布仓库。之后在 AstrBot 面板点「检查更新」即可。
+
+常用变体：
+
+```bash
+python update_and_publish.py --pack-only   # 不联网，只按当前快照重打包并推送
+python update_and_publish.py --dry-run     # 只看上游差异，不写文件、不推送
+python update_and_publish.py --no-push     # 只更新和打包，不提交、不推送
+python update_and_publish.py --skip-tests  # 跳过单测（不推荐）
+```
+
+如果只想手动推送插件仓库：
 
 ```bash
 python scripts/publish_plugin_repo.py \

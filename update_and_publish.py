@@ -28,6 +28,7 @@ import os
 import re
 import subprocess
 import sys
+import time
 from pathlib import Path
 from typing import Optional
 
@@ -155,8 +156,17 @@ def update_plugin(args: argparse.Namespace) -> None:
         cmd.extend(args.extra)
 
     result = run(cmd, check=False)
+    attempts = max(1, args.retries + 1)
+    attempt = 1
+    while result.returncode and attempt < attempts:
+        print(f"\n更新失败（退出码 {result.returncode}），{attempt}/{attempts - 1} 次重试将在 8 秒后开始…")
+        time.sleep(8)
+        attempt += 1
+        result = run(cmd, check=False)
     if result.returncode:
-        raise SystemExit(f"更新/打包失败（退出码 {result.returncode}），没有提交或推送。")
+        raise SystemExit(
+            f"更新/打包失败（退出码 {result.returncode}），没有提交或推送。\n"
+            "网络源不稳定时可先重跑，或加 --pack-only 用当前快照重打包。")
 
 
 def publish_plugin_repo(repo_dir: Path, remote: str, message: str) -> None:
@@ -219,9 +229,13 @@ def main() -> int:
                         help="插件发布仓库远端，默认读 metadata.yaml 的 repo")
     parser.add_argument("--timeout", type=int, default=0,
                         help="更新时单个网络请求超时秒数（透传 update_all.py）")
+    parser.add_argument("--retries", type=int, default=1,
+                        help="更新失败后的重试次数，默认 1")
     parser.add_argument("extra", nargs=argparse.REMAINDER,
                         help="其余参数原样传给 plugin/update_and_pack.py")
-    args = parser.parse_args()
+    args, unknown = parser.parse_known_args()
+    if unknown:
+        args.extra.extend(unknown)
 
     if args.pack_only and args.extra:
         raise SystemExit("--pack-only 不能和额外的 update_all 参数一起用")

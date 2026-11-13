@@ -12,7 +12,7 @@
 **方式一：WebUI 上传（推荐）**
 
 1. 插件 → 安装 → 上传文件
-2. 选择 `dist/astrbot_plugin_maimai_kb.zip`（0.83 MB）
+2. 选择 `dist/astrbot_plugin_maimai_kb.zip`（0.84 MB）
 3. 重载插件，看到日志 `[maimai_kb] 已加载 1306 首歌曲 / 5572 张谱面` 即成功
 
 **方式二：解压到 data/plugins**
