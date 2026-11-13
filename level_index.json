@@ -808,6 +808,32 @@
       "chart_tags": []
     },
     {
+      "id": 11856,
+      "title": "MIRA",
+      "aliases": [
+        "MIRA",
+        "mira"
+      ],
+      "artist": "Kanaria",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "2",
+      "ds": 2.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 118,
+        "hold": 10,
+        "slide": 4,
+        "touch": 18,
+        "break": 2
+      },
+      "chart_tags": []
+    },
+    {
       "id": 11335,
       "title": "MOBILYS",
       "aliases": [
@@ -1586,6 +1612,31 @@
         "slide": 5,
         "touch": 15,
         "break": 2
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11858,
+      "title": "お呪い",
+      "aliases": [
+        "お呪い"
+      ],
+      "artist": "なきそ",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "2",
+      "ds": 2.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 92,
+        "hold": 7,
+        "slide": 6,
+        "touch": 8,
+        "break": 5
       },
       "chart_tags": []
     },
@@ -3466,6 +3517,82 @@
         "slide": 6,
         "touch": 8,
         "break": 5
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11865,
+      "title": "少女A",
+      "aliases": [
+        "少女A",
+        "少女a"
+      ],
+      "artist": "椎名もた",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "2",
+      "ds": 2.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 126,
+        "hold": 9,
+        "slide": 4,
+        "touch": 14,
+        "break": 6
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11864,
+      "title": "少女レイ",
+      "aliases": [
+        "少女レイ"
+      ],
+      "artist": "みきとP",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "2",
+      "ds": 2.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 163,
+        "hold": 11,
+        "slide": 4,
+        "touch": 15,
+        "break": 6
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11866,
+      "title": "帝国少女",
+      "aliases": [
+        "帝国少女"
+      ],
+      "artist": "R Sound Design",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "2",
+      "ds": 2.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 114,
+        "hold": 10,
+        "slide": 4,
+        "touch": 9,
+        "break": 4
       },
       "chart_tags": []
     },
@@ -5416,6 +5543,32 @@
       "chart_tags": []
     },
     {
+      "id": 11875,
+      "title": "Leave All Behind",
+      "aliases": [
+        "Leave All Behind",
+        "leave all behind"
+      ],
+      "artist": "rider",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "3",
+      "ds": 3.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 127,
+        "hold": 11,
+        "slide": 4,
+        "touch": 13,
+        "break": 5
+      },
+      "chart_tags": []
+    },
+    {
       "id": 11565,
       "title": "Let you DIVE!",
       "aliases": [
@@ -5596,6 +5749,32 @@
         "slide": 4,
         "touch": 16,
         "break": 14
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11826,
+      "title": "Lover's Trick",
+      "aliases": [
+        "Lover's Trick",
+        "lover's trick"
+      ],
+      "artist": "litmus*",
+      "category": "音击/中二节奏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "3",
+      "ds": 3.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 138,
+        "hold": 12,
+        "slide": 6,
+        "touch": 13,
+        "break": 2
       },
       "chart_tags": []
     },
@@ -5804,6 +5983,32 @@
         "slide": 6,
         "touch": 13,
         "break": 8
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11874,
+      "title": "NO ONE YES MAN",
+      "aliases": [
+        "NO ONE YES MAN",
+        "no one yes man"
+      ],
+      "artist": "MYUKKE.",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "3",
+      "ds": 3.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 150,
+        "hold": 11,
+        "slide": 8,
+        "touch": 6,
+        "break": 5
       },
       "chart_tags": []
     },
@@ -12853,6 +13058,31 @@
       "chart_tags": []
     },
     {
+      "id": 11857,
+      "title": "空回りライブラリ",
+      "aliases": [
+        "空回りライブラリ"
+      ],
+      "artist": "雪乃イト",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "3",
+      "ds": 3.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 152,
+        "hold": 9,
+        "slide": 4,
+        "touch": 9,
+        "break": 6
+      },
+      "chart_tags": []
+    },
+    {
       "id": 11341,
       "title": "紅星ミゼラブル～廃憶編",
       "aliases": [
@@ -16184,6 +16414,32 @@
       "chart_tags": []
     },
     {
+      "id": 11877,
+      "title": "Luminescence",
+      "aliases": [
+        "Luminescence",
+        "luminescence"
+      ],
+      "artist": "米虾Fomiki & 初云CLoudie",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "4",
+      "ds": 4.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 203,
+        "hold": 22,
+        "slide": 4,
+        "touch": 7,
+        "break": 5
+      },
+      "chart_tags": []
+    },
+    {
       "id": 11847,
       "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
       "aliases": [
@@ -18807,6 +19063,31 @@
         "slide": 4,
         "touch": 6,
         "break": 39
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11859,
+      "title": "ありきたりな恋の歌",
+      "aliases": [
+        "ありきたりな恋の歌"
+      ],
+      "artist": "GYARI",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "4",
+      "ds": 4.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 208,
+        "hold": 8,
+        "slide": 4,
+        "touch": 18,
+        "break": 6
       },
       "chart_tags": []
     },
@@ -21944,6 +22225,36 @@
       "chart_tags": []
     },
     {
+      "id": 10187,
+      "title": "ローリンガール",
+      "aliases": [
+        "ローリンガール",
+        "roiling giri",
+        "rolling girl",
+        "翻滚少女",
+        "头皮屑",
+        "滚女"
+      ],
+      "artist": "wowaka",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "4",
+      "ds": 4.0,
+      "ds_source": "divingfish",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 176,
+        "hold": 9,
+        "slide": 4,
+        "touch": 6,
+        "break": 4
+      },
+      "chart_tags": []
+    },
+    {
       "id": 187,
       "title": "ローリンガール",
       "aliases": [
@@ -21956,7 +22267,7 @@
       ],
       "artist": "wowaka",
       "category": "niconico＆VOCALOID™",
-      "version": "GreeN",
+      "version": "舞萌DX 2026",
       "type": "standard",
       "difficulty": "basic",
       "value": "4",
@@ -37716,6 +38027,32 @@
       "chart_tags": []
     },
     {
+      "id": 11875,
+      "title": "Leave All Behind",
+      "aliases": [
+        "Leave All Behind",
+        "leave all behind"
+      ],
+      "artist": "rider",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "6",
+      "ds": 6.8,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 214,
+        "hold": 15,
+        "slide": 8,
+        "touch": 28,
+        "break": 4
+      },
+      "chart_tags": []
+    },
+    {
       "id": 112,
       "title": "Like the Wind [Reborn]",
       "aliases": [
@@ -38086,6 +38423,32 @@
         "hold": 15,
         "slide": 8,
         "break": 4
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11856,
+      "title": "MIRA",
+      "aliases": [
+        "MIRA",
+        "mira"
+      ],
+      "artist": "Kanaria",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "6",
+      "ds": 6.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 248,
+        "hold": 12,
+        "slide": 8,
+        "touch": 11,
+        "break": 3
       },
       "chart_tags": []
     },
@@ -39103,6 +39466,32 @@
         "slide": 8,
         "touch": 23,
         "break": 4
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11876,
+      "title": "Retribution ～ Cycle of Redemption ～",
+      "aliases": [
+        "Retribution ～ Cycle of Redemption ～",
+        "retribution ～ cycle of redemption ～"
+      ],
+      "artist": "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "basic",
+      "value": "6",
+      "ds": 6.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 336,
+        "hold": 6,
+        "slide": 8,
+        "touch": 17,
+        "break": 5
       },
       "chart_tags": []
     },
@@ -42021,6 +42410,31 @@
         "slide": 12,
         "touch": 14,
         "break": 14
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11858,
+      "title": "お呪い",
+      "aliases": [
+        "お呪い"
+      ],
+      "artist": "なきそ",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "6",
+      "ds": 6.2,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 205,
+        "hold": 8,
+        "slide": 6,
+        "touch": 6,
+        "break": 3
       },
       "chart_tags": []
     },
@@ -46728,6 +47142,57 @@
       "chart_tags": []
     },
     {
+      "id": 11865,
+      "title": "少女A",
+      "aliases": [
+        "少女A",
+        "少女a"
+      ],
+      "artist": "椎名もた",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "6",
+      "ds": 6.2,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 238,
+        "hold": 12,
+        "slide": 12,
+        "touch": 14,
+        "break": 4
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11864,
+      "title": "少女レイ",
+      "aliases": [
+        "少女レイ"
+      ],
+      "artist": "みきとP",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "6",
+      "ds": 6.5,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 296,
+        "hold": 12,
+        "slide": 7,
+        "touch": 27,
+        "break": 4
+      },
+      "chart_tags": []
+    },
+    {
       "id": 427,
       "title": "少女幻葬戦慄曲 ～ Necro Fantasia",
       "aliases": [
@@ -46752,6 +47217,31 @@
         "hold": 17,
         "slide": 10,
         "break": 4
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11866,
+      "title": "帝国少女",
+      "aliases": [
+        "帝国少女"
+      ],
+      "artist": "R Sound Design",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "6",
+      "ds": 6.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 195,
+        "hold": 15,
+        "slide": 8,
+        "touch": 27,
+        "break": 6
       },
       "chart_tags": []
     },
@@ -47913,6 +48403,31 @@
         "hold": 7,
         "slide": 3,
         "break": 3
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11857,
+      "title": "空回りライブラリ",
+      "aliases": [
+        "空回りライブラリ"
+      ],
+      "artist": "雪乃イト",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "6",
+      "ds": 6.5,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 267,
+        "hold": 16,
+        "slide": 4,
+        "touch": 11,
+        "break": 4
       },
       "chart_tags": []
     },
@@ -50770,6 +51285,32 @@
       "chart_tags": []
     },
     {
+      "id": 11826,
+      "title": "Lover's Trick",
+      "aliases": [
+        "Lover's Trick",
+        "lover's trick"
+      ],
+      "artist": "litmus*",
+      "category": "音击/中二节奏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "7",
+      "ds": 7.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 212,
+        "hold": 16,
+        "slide": 5,
+        "touch": 21,
+        "break": 7
+      },
+      "chart_tags": []
+    },
+    {
       "id": 10316,
       "title": "M.S.S.Planet",
       "aliases": [
@@ -53171,6 +53712,31 @@
         "slide": 8,
         "touch": 10,
         "break": 6
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11859,
+      "title": "ありきたりな恋の歌",
+      "aliases": [
+        "ありきたりな恋の歌"
+      ],
+      "artist": "GYARI",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "7",
+      "ds": 7.5,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 343,
+        "hold": 19,
+        "slide": 9,
+        "touch": 12,
+        "break": 4
       },
       "chart_tags": []
     },
@@ -57508,7 +58074,7 @@
       ],
       "artist": "wowaka",
       "category": "niconico＆VOCALOID™",
-      "version": "GreeN",
+      "version": "舞萌DX 2026",
       "type": "standard",
       "difficulty": "advanced",
       "value": "7",
@@ -62821,6 +63387,32 @@
       "chart_tags": []
     },
     {
+      "id": 11877,
+      "title": "Luminescence",
+      "aliases": [
+        "Luminescence",
+        "luminescence"
+      ],
+      "artist": "米虾Fomiki & 初云CLoudie",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "7+",
+      "ds": 7.6,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 316,
+        "hold": 20,
+        "slide": 16,
+        "touch": 26,
+        "break": 2
+      },
+      "chart_tags": []
+    },
+    {
       "id": 11676,
       "title": "Lunatic Vibes",
       "aliases": [
@@ -63189,6 +63781,32 @@
         "slide": 13,
         "touch": 25,
         "break": 24
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11874,
+      "title": "NO ONE YES MAN",
+      "aliases": [
+        "NO ONE YES MAN",
+        "no one yes man"
+      ],
+      "artist": "MYUKKE.",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "7+",
+      "ds": 7.7,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 260,
+        "hold": 14,
+        "slide": 7,
+        "touch": 28,
+        "break": 1
       },
       "chart_tags": []
     },
@@ -68152,6 +68770,36 @@
         "slide": 21,
         "touch": 18,
         "break": 12
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 10187,
+      "title": "ローリンガール",
+      "aliases": [
+        "ローリンガール",
+        "roiling giri",
+        "rolling girl",
+        "翻滚少女",
+        "头皮屑",
+        "滚女"
+      ],
+      "artist": "wowaka",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "7+",
+      "ds": 7.8,
+      "ds_source": "divingfish",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 274,
+        "hold": 12,
+        "slide": 6,
+        "touch": 26,
+        "break": 4
       },
       "chart_tags": []
     },
@@ -73719,6 +74367,32 @@
         "slide": 37,
         "touch": 17,
         "break": 12
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11876,
+      "title": "Retribution ～ Cycle of Redemption ～",
+      "aliases": [
+        "Retribution ～ Cycle of Redemption ～",
+        "retribution ～ cycle of redemption ～"
+      ],
+      "artist": "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "advanced",
+      "value": "8",
+      "ds": 8.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "-",
+      "notes": {
+        "tap": 341,
+        "hold": 28,
+        "slide": 6,
+        "touch": 49,
+        "break": 5
       },
       "chart_tags": []
     },
@@ -85935,6 +86609,32 @@
       "chart_tags": []
     },
     {
+      "id": 11856,
+      "title": "MIRA",
+      "aliases": [
+        "MIRA",
+        "mira"
+      ],
+      "artist": "Kanaria",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "9",
+      "ds": 9.5,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "カマボコ君",
+      "notes": {
+        "tap": 236,
+        "hold": 43,
+        "slide": 39,
+        "touch": 8,
+        "break": 8
+      },
+      "chart_tags": []
+    },
+    {
       "id": 705,
       "title": "Mare Maris",
       "aliases": [
@@ -88506,6 +89206,31 @@
         "slide": 22,
         "touch": 0,
         "break": 43
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11866,
+      "title": "帝国少女",
+      "aliases": [
+        "帝国少女"
+      ],
+      "artist": "R Sound Design",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "9",
+      "ds": 9.2,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "はっぴー",
+      "notes": {
+        "tap": 283,
+        "hold": 63,
+        "slide": 26,
+        "touch": 14,
+        "break": 3
       },
       "chart_tags": []
     },
@@ -93355,7 +94080,7 @@
       ],
       "artist": "wowaka",
       "category": "niconico＆VOCALOID™",
-      "version": "GreeN",
+      "version": "舞萌DX 2026",
       "type": "standard",
       "difficulty": "expert",
       "value": "9+",
@@ -93808,6 +94533,57 @@
         "slide": 22,
         "touch": 28,
         "break": 25
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11865,
+      "title": "少女A",
+      "aliases": [
+        "少女A",
+        "少女a"
+      ],
+      "artist": "椎名もた",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "9+",
+      "ds": 9.9,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "アマリリス",
+      "notes": {
+        "tap": 287,
+        "hold": 120,
+        "slide": 39,
+        "touch": 8,
+        "break": 12
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11864,
+      "title": "少女レイ",
+      "aliases": [
+        "少女レイ"
+      ],
+      "artist": "みきとP",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "9+",
+      "ds": 9.9,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "鳩ホルダー",
+      "notes": {
+        "tap": 324,
+        "hold": 33,
+        "slide": 62,
+        "touch": 13,
+        "break": 11
       },
       "chart_tags": []
     },
@@ -94445,6 +95221,31 @@
         "hold": 69,
         "slide": 48,
         "break": 12
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11857,
+      "title": "空回りライブラリ",
+      "aliases": [
+        "空回りライブラリ"
+      ],
+      "artist": "雪乃イト",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "9+",
+      "ds": 9.7,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "Luxizhel",
+      "notes": {
+        "tap": 297,
+        "hold": 32,
+        "slide": 37,
+        "touch": 13,
+        "break": 39
       },
       "chart_tags": []
     },
@@ -96708,6 +97509,31 @@
       ]
     },
     {
+      "id": 11859,
+      "title": "ありきたりな恋の歌",
+      "aliases": [
+        "ありきたりな恋の歌"
+      ],
+      "artist": "GYARI",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "10",
+      "ds": 10.5,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "はっぴー",
+      "notes": {
+        "tap": 411,
+        "hold": 89,
+        "slide": 25,
+        "touch": 28,
+        "break": 24
+      },
+      "chart_tags": []
+    },
+    {
       "id": 11867,
       "title": "うぇいびー",
       "aliases": [
@@ -96768,6 +97594,31 @@
         "hold": 50,
         "slide": 10,
         "break": 13
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11858,
+      "title": "お呪い",
+      "aliases": [
+        "お呪い"
+      ],
+      "artist": "なきそ",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "10",
+      "ds": 10.2,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "きょむりん",
+      "notes": {
+        "tap": 210,
+        "hold": 78,
+        "slide": 10,
+        "touch": 18,
+        "break": 21
       },
       "chart_tags": []
     },
@@ -102514,6 +103365,32 @@
       "chart_tags": []
     },
     {
+      "id": 11826,
+      "title": "Lover's Trick",
+      "aliases": [
+        "Lover's Trick",
+        "lover's trick"
+      ],
+      "artist": "litmus*",
+      "category": "音击/中二节奏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "10+",
+      "ds": 10.8,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "鳩ホルダー",
+      "notes": {
+        "tap": 245,
+        "hold": 82,
+        "slide": 46,
+        "touch": 35,
+        "break": 34
+      },
+      "chart_tags": []
+    },
+    {
       "id": 316,
       "title": "M.S.S.Planet",
       "aliases": [
@@ -106551,6 +107428,36 @@
       "chart_tags": []
     },
     {
+      "id": 10187,
+      "title": "ローリンガール",
+      "aliases": [
+        "ローリンガール",
+        "roiling giri",
+        "rolling girl",
+        "翻滚少女",
+        "头皮屑",
+        "滚女"
+      ],
+      "artist": "wowaka",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "10+",
+      "ds": 10.9,
+      "ds_source": "divingfish",
+      "detail_source": "divingfish",
+      "charter": "サファ太",
+      "notes": {
+        "tap": 388,
+        "hold": 65,
+        "slide": 44,
+        "touch": 0,
+        "break": 23
+      },
+      "chart_tags": []
+    },
+    {
       "id": 11166,
       "title": "ワンダーシャッフェンの法則",
       "aliases": [
@@ -109546,6 +110453,32 @@
       "chart_tags": []
     },
     {
+      "id": 11875,
+      "title": "Leave All Behind",
+      "aliases": [
+        "Leave All Behind",
+        "leave all behind"
+      ],
+      "artist": "rider",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "11",
+      "ds": 11.2,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "鳩ホルダー",
+      "notes": {
+        "tap": 285,
+        "hold": 46,
+        "slide": 38,
+        "touch": 26,
+        "break": 38
+      },
+      "chart_tags": []
+    },
+    {
       "id": 11565,
       "title": "Let you DIVE!",
       "aliases": [
@@ -109737,6 +110670,32 @@
         "hold": 51,
         "slide": 44,
         "break": 21
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11877,
+      "title": "Luminescence",
+      "aliases": [
+        "Luminescence",
+        "luminescence"
+      ],
+      "artist": "米虾Fomiki & 初云CLoudie",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "11",
+      "ds": 11.2,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "サファ太",
+      "notes": {
+        "tap": 332,
+        "hold": 78,
+        "slide": 61,
+        "touch": 46,
+        "break": 61
       },
       "chart_tags": []
     },
@@ -123138,6 +124097,32 @@
       "chart_tags": []
     },
     {
+      "id": 11874,
+      "title": "NO ONE YES MAN",
+      "aliases": [
+        "NO ONE YES MAN",
+        "no one yes man"
+      ],
+      "artist": "MYUKKE.",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "12",
+      "ds": 12.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "Jack",
+      "notes": {
+        "tap": 365,
+        "hold": 45,
+        "slide": 60,
+        "touch": 11,
+        "break": 40
+      },
+      "chart_tags": []
+    },
+    {
       "id": 534,
       "title": "Nitrous Fury",
       "aliases": [
@@ -131123,6 +132108,32 @@
       ]
     },
     {
+      "id": 11856,
+      "title": "MIRA",
+      "aliases": [
+        "MIRA",
+        "mira"
+      ],
+      "artist": "Kanaria",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "12+",
+      "ds": 12.9,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "サファ太",
+      "notes": {
+        "tap": 311,
+        "hold": 40,
+        "slide": 49,
+        "touch": 87,
+        "break": 53
+      },
+      "chart_tags": []
+    },
+    {
       "id": 11860,
       "title": "MYTH Re：LEASE",
       "aliases": [
@@ -138018,6 +139029,31 @@
       ]
     },
     {
+      "id": 11864,
+      "title": "少女レイ",
+      "aliases": [
+        "少女レイ"
+      ],
+      "artist": "みきとP",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "12+",
+      "ds": 12.9,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "Luxizhel",
+      "notes": {
+        "tap": 417,
+        "hold": 47,
+        "slide": 104,
+        "touch": 23,
+        "break": 31
+      },
+      "chart_tags": []
+    },
+    {
       "id": 11154,
       "title": "居並ぶ穀物と溜息まじりの運送屋",
       "aliases": [
@@ -139148,6 +140184,31 @@
         "hold": 29,
         "slide": 61,
         "break": 23
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11857,
+      "title": "空回りライブラリ",
+      "aliases": [
+        "空回りライブラリ"
+      ],
+      "artist": "雪乃イト",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "12+",
+      "ds": 12.8,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "はっぴー",
+      "notes": {
+        "tap": 484,
+        "hold": 55,
+        "slide": 87,
+        "touch": 17,
+        "break": 24
       },
       "chart_tags": []
     },
@@ -144757,6 +145818,32 @@
       ]
     },
     {
+      "id": 11876,
+      "title": "Retribution ～ Cycle of Redemption ～",
+      "aliases": [
+        "Retribution ～ Cycle of Redemption ～",
+        "retribution ～ cycle of redemption ～"
+      ],
+      "artist": "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "expert",
+      "value": "13",
+      "ds": 13.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "はっぴー",
+      "notes": {
+        "tap": 640,
+        "hold": 57,
+        "slide": 36,
+        "touch": 40,
+        "break": 29
+      },
+      "chart_tags": []
+    },
+    {
       "id": 81,
       "title": "Rooftop Run: Act1",
       "aliases": [
@@ -147385,6 +148472,31 @@
       "chart_tags": [
         "跳拍"
       ]
+    },
+    {
+      "id": 11858,
+      "title": "お呪い",
+      "aliases": [
+        "お呪い"
+      ],
+      "artist": "なきそ",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "13",
+      "ds": 13.0,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "アマリリス",
+      "notes": {
+        "tap": 382,
+        "hold": 16,
+        "slide": 73,
+        "touch": 39,
+        "break": 39
+      },
+      "chart_tags": []
     },
     {
       "id": 11798,
@@ -152885,6 +153997,36 @@
       ]
     },
     {
+      "id": 10187,
+      "title": "ローリンガール",
+      "aliases": [
+        "ローリンガール",
+        "roiling giri",
+        "rolling girl",
+        "翻滚少女",
+        "头皮屑",
+        "滚女"
+      ],
+      "artist": "wowaka",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "13",
+      "ds": 13.3,
+      "ds_source": "divingfish",
+      "detail_source": "divingfish",
+      "charter": "Luxizhel",
+      "notes": {
+        "tap": 463,
+        "hold": 49,
+        "slide": 109,
+        "touch": 32,
+        "break": 35
+      },
+      "chart_tags": []
+    },
+    {
       "id": 187,
       "title": "ローリンガール",
       "aliases": [
@@ -152897,7 +154039,7 @@
       ],
       "artist": "wowaka",
       "category": "niconico＆VOCALOID™",
-      "version": "GreeN",
+      "version": "舞萌DX 2026",
       "type": "standard",
       "difficulty": "master",
       "value": "13",
@@ -154228,6 +155370,32 @@
       "chart_tags": []
     },
     {
+      "id": 11865,
+      "title": "少女A",
+      "aliases": [
+        "少女A",
+        "少女a"
+      ],
+      "artist": "椎名もた",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "13",
+      "ds": 13.3,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "はっぴー",
+      "notes": {
+        "tap": 686,
+        "hold": 29,
+        "slide": 91,
+        "touch": 15,
+        "break": 21
+      },
+      "chart_tags": []
+    },
+    {
       "id": 11170,
       "title": "届かない花束",
       "aliases": [
@@ -154254,6 +155422,31 @@
         "slide": 100,
         "touch": 23,
         "break": 10
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11866,
+      "title": "帝国少女",
+      "aliases": [
+        "帝国少女"
+      ],
+      "artist": "R Sound Design",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "13",
+      "ds": 13.3,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "カマボコホルダー",
+      "notes": {
+        "tap": 506,
+        "hold": 28,
+        "slide": 93,
+        "touch": 49,
+        "break": 21
       },
       "chart_tags": []
     },
@@ -160711,6 +161904,32 @@
       ]
     },
     {
+      "id": 11875,
+      "title": "Leave All Behind",
+      "aliases": [
+        "Leave All Behind",
+        "leave all behind"
+      ],
+      "artist": "rider",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "13+",
+      "ds": 13.8,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "Luxizhel",
+      "notes": {
+        "tap": 501,
+        "hold": 39,
+        "slide": 48,
+        "touch": 60,
+        "break": 36
+      },
+      "chart_tags": []
+    },
+    {
       "id": 232,
       "title": "Life Feels Good",
       "aliases": [
@@ -160865,6 +162084,58 @@
         "纵连",
         "绝赞段"
       ]
+    },
+    {
+      "id": 11826,
+      "title": "Lover's Trick",
+      "aliases": [
+        "Lover's Trick",
+        "lover's trick"
+      ],
+      "artist": "litmus*",
+      "category": "音击/中二节奏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "13+",
+      "ds": 13.7,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "Jack",
+      "notes": {
+        "tap": 520,
+        "hold": 88,
+        "slide": 37,
+        "touch": 85,
+        "break": 18
+      },
+      "chart_tags": []
+    },
+    {
+      "id": 11877,
+      "title": "Luminescence",
+      "aliases": [
+        "Luminescence",
+        "luminescence"
+      ],
+      "artist": "米虾Fomiki & 初云CLoudie",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "13+",
+      "ds": 13.8,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "Jack",
+      "notes": {
+        "tap": 599,
+        "hold": 40,
+        "slide": 72,
+        "touch": 129,
+        "break": 42
+      },
+      "chart_tags": []
     },
     {
       "id": 11676,
@@ -161475,6 +162746,32 @@
         "一笔画",
         "扫键"
       ]
+    },
+    {
+      "id": 11874,
+      "title": "NO ONE YES MAN",
+      "aliases": [
+        "NO ONE YES MAN",
+        "no one yes man"
+      ],
+      "artist": "MYUKKE.",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "13+",
+      "ds": 13.9,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "鳩ホルダー & Luxizhel",
+      "notes": {
+        "tap": 515,
+        "hold": 73,
+        "slide": 81,
+        "touch": 92,
+        "break": 66
+      },
+      "chart_tags": []
     },
     {
       "id": 11142,
@@ -164536,6 +165833,31 @@
         "转圈",
         "扫键"
       ]
+    },
+    {
+      "id": 11859,
+      "title": "ありきたりな恋の歌",
+      "aliases": [
+        "ありきたりな恋の歌"
+      ],
+      "artist": "GYARI",
+      "category": "niconico＆VOCALOID™",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "13+",
+      "ds": 13.8,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "鳩ホルダー",
+      "notes": {
+        "tap": 503,
+        "hold": 53,
+        "slide": 122,
+        "touch": 136,
+        "break": 117
+      },
+      "chart_tags": []
     },
     {
       "id": 448,
@@ -174420,6 +175742,32 @@
         "扫键",
         "绝赞段"
       ]
+    },
+    {
+      "id": 11876,
+      "title": "Retribution ～ Cycle of Redemption ～",
+      "aliases": [
+        "Retribution ～ Cycle of Redemption ～",
+        "retribution ～ cycle of redemption ～"
+      ],
+      "artist": "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)",
+      "category": "其他游戏",
+      "version": "舞萌DX 2026",
+      "type": "dx",
+      "difficulty": "master",
+      "value": "14",
+      "ds": 14.4,
+      "ds_source": "onecat",
+      "detail_source": "divingfish",
+      "charter": "サファ太",
+      "notes": {
+        "tap": 726,
+        "hold": 100,
+        "slide": 93,
+        "touch": 64,
+        "break": 105
+      },
+      "chart_tags": []
     },
     {
       "id": 11281,

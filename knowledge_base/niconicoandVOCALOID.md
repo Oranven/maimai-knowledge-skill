@@ -1,6 +1,6 @@
 # niconico＆VOCALOID™
 
-本分类共有 302 条歌曲记录。
+本分类共有 309 条歌曲记录。
 
 ## maimai (8首)
 
@@ -382,7 +382,7 @@
 
 ---
 
-## GreeN (14首)
+## GreeN (13首)
 
 ## いーあるふぁんくらぶ
 
@@ -528,32 +528,6 @@
 **MASTER**: 交互, 跳拍, 星星谱, 键盘谱, 拆弹, 诈称谱
 
 **标签**: GreeN, VOCALOID™, niconico, niconico＆VOCALOID™, wowaka, 交互, 拆弹, 星星谱, 诈称谱, 跳拍, 键盘谱
-
----
-
-## ローリンガール
-
-**ID**: 187
-**艺术家**: wowaka
-**分类**: niconico＆VOCALOID™
-**版本**: GreeN
-
-**别名**: ローリンガール, roiling giri, rolling girl, 翻滚少女, 头皮屑, 滚女
-
-### 难度信息
-
-**标准谱面**:
-- Basic: 4（定数 4.0）
-- Advanced: 7（定数 7.4）
-- Expert: 9+（定数 9.8）
-- Master: 13（定数 13.2）
-- Re:Master: 无
-
-### 谱面特征
-
-**MASTER**: 大位移, 一笔画, 诈称谱
-
-**标签**: GreeN, VOCALOID™, niconico, niconico＆VOCALOID™, wowaka, 一笔画, 大位移, 诈称谱
 
 ---
 
@@ -7262,7 +7236,7 @@
 
 ---
 
-## 舞萌DX 2026 (15首)
+## 舞萌DX 2026 (23首)
 
 ## ゴーゴー幽霊船
 
@@ -7291,6 +7265,40 @@
 - Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 米津玄師, 舞萌DX 2026
+
+---
+
+## ローリンガール
+
+**ID**: 187
+**DX ID**: 10187
+**艺术家**: wowaka
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: ローリンガール, roiling giri, rolling girl, 翻滚少女, 头皮屑, 滚女
+
+### 难度信息
+
+**标准谱面**:
+- Basic: 4（定数 4.0）
+- Advanced: 7（定数 7.4）
+- Expert: 9+（定数 9.8）
+- Master: 13（定数 13.2）
+- Re:Master: 无
+
+**DX谱面**:
+- Basic: 4（定数 4.0）
+- Advanced: 7+（定数 7.8）
+- Expert: 10+（定数 10.9）
+- Master: 13（定数 13.3）
+- Re:Master: 无
+
+### 谱面特征
+
+**MASTER**: 大位移, 一笔画, 诈称谱
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, wowaka, 一笔画, 大位移, 舞萌DX 2026, 诈称谱
 
 ---
 
@@ -7599,5 +7607,159 @@
 - Re:Master: 无
 
 **标签**: VOCALOID™, niconico, niconico＆VOCALOID™, r-906, 舞萌DX 2026
+
+---
+
+## 少女レイ
+
+**ID**: 11864
+**艺术家**: みきとP
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: 少女レイ
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 2（定数 2.0）
+- Advanced: 6（定数 6.5）
+- Expert: 9+（定数 9.9）
+- Master: 12+（定数 12.9）
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, みきとP, 舞萌DX 2026
+
+---
+
+## 少女A
+
+**ID**: 11865
+**艺术家**: 椎名もた
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: 少女A, 少女a
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 2（定数 2.0）
+- Advanced: 6（定数 6.2）
+- Expert: 9+（定数 9.9）
+- Master: 13（定数 13.3）
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 椎名もた, 舞萌DX 2026
+
+---
+
+## 帝国少女
+
+**ID**: 11866
+**艺术家**: R Sound Design
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: 帝国少女
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 2（定数 2.0）
+- Advanced: 6（定数 6.0）
+- Expert: 9（定数 9.2）
+- Master: 13（定数 13.3）
+- Re:Master: 无
+
+**标签**: R Sound Design, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2026
+
+---
+
+## 空回りライブラリ
+
+**ID**: 11857
+**艺术家**: 雪乃イト
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: 空回りライブラリ
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 3（定数 3.0）
+- Advanced: 6（定数 6.5）
+- Expert: 9+（定数 9.7）
+- Master: 12+（定数 12.8）
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2026, 雪乃イト
+
+---
+
+## MIRA
+
+**ID**: 11856
+**艺术家**: Kanaria
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: MIRA, mira
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 2（定数 2.0）
+- Advanced: 6（定数 6.0）
+- Expert: 9（定数 9.5）
+- Master: 12+（定数 12.9）
+- Re:Master: 无
+
+**标签**: Kanaria, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2026
+
+---
+
+## ありきたりな恋の歌
+
+**ID**: 11859
+**艺术家**: GYARI
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: ありきたりな恋の歌
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 4（定数 4.0）
+- Advanced: 7（定数 7.5）
+- Expert: 10（定数 10.5）
+- Master: 13+（定数 13.8）
+- Re:Master: 无
+
+**标签**: GYARI, VOCALOID™, niconico, niconico＆VOCALOID™, 舞萌DX 2026
+
+---
+
+## お呪い
+
+**ID**: 11858
+**艺术家**: なきそ
+**分类**: niconico＆VOCALOID™
+**版本**: 舞萌DX 2026
+
+**别名**: お呪い
+
+### 难度信息
+
+**DX谱面**:
+- Basic: 2（定数 2.0）
+- Advanced: 6（定数 6.2）
+- Expert: 10（定数 10.2）
+- Master: 13（定数 13.0）
+- Re:Master: 无
+
+**标签**: VOCALOID™, niconico, niconico＆VOCALOID™, なきそ, 舞萌DX 2026
 
 ---

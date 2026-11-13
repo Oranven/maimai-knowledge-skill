@@ -2,7 +2,7 @@
 
 查询国服歌曲、别名、显示等级、定数和谱面特征，并通过现有工具查 B50、封面和拟合难度。
 
-当前全量快照：**CN1.56-E**（国服源更新于 2026-10-01），**1294 条歌曲记录、1293 个唯一标题、5520 张常规谱面、6 个分类**。定数与显示等级已按 [OneCat 官方谱面站](https://dw.moant.cn:34225/onecat/#/official) 刷新（2026-11-04）：5520 张谱面全部有定数，无 `null`。两首 `Link` 按艺术家区分，不能只按标题去重。
+当前全量快照：**CN1.56-F**（国服源更新于 2026-11-13），**1306 条歌曲记录、1305 个唯一标题、5572 张常规谱面、6 个分类**。定数与显示等级已按 [OneCat 官方谱面站](https://dw.moant.cn:34225/onecat/#/official) 刷新（2026-11-13）：5572 张谱面全部有定数，无 `null`。两首 `Link` 按艺术家区分，不能只按标题去重。
 
 ## 文件结构
 
@@ -106,7 +106,7 @@ python scripts/maimai_utils.py --help
 4. [备用谱面 CSV](https://github.com/Choimoe/dxdataViewer/blob/main/data/csv/merged/sheets.csv)：水鱼不可用或缺少曲目时补缺。
 5. [别名 API](https://www.yuzuchan.moe/api/maimaidx/maimaidxalias)：合并在线和已有别名；失败时保留已有别名。
 
-本快照全部 5520 张谱面已匹配 ID；5508 张的 `ds` 来自 OneCat，3 首（One Step Ahead、Endless, Sleepless Night、LANCE）的谱面 OneCat 未收录，保留原水鱼定数。`ds_source` 和 `detail_source` 分别记录定数与谱面详情来源；不要把空定数解释为 0。
+本快照全部 5572 张谱面已匹配 ID；5556 张的 `ds` 来自 OneCat，4 首（ローリンガール、One Step Ahead、Endless, Sleepless Night、LANCE）的谱面 OneCat 未收录，保留原水鱼定数。`ds_source` 和 `detail_source` 分别记录定数与谱面详情来源；不要把空定数解释为 0。
 
 保留原有 926 首含标签歌曲。旧 Markdown 标签未区分 SD/DX，因此 `songs.json.chart_tags` 为歌曲层的历史参考；谱面查询应优先使用 `level_index.json.chart_tags`。新曲不凭空生成配置标签，历史标签不保证仍适合新谱面。
 

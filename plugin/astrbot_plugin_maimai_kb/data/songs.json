@@ -5373,11 +5373,11 @@
   {
     "id": 187,
     "std_id": 187,
-    "dx_id": null,
+    "dx_id": 10187,
     "title": "ローリンガール",
     "artist": "wowaka",
     "category": "niconico＆VOCALOID™",
-    "version": "GreeN",
+    "version": "舞萌DX 2026",
     "aliases": [
       "ローリンガール",
       "roiling giri",
@@ -5396,10 +5396,10 @@
         "remaster": null
       },
       "dx": {
-        "basic": null,
-        "advanced": null,
-        "expert": null,
-        "master": null,
+        "basic": "4",
+        "advanced": "7+",
+        "expert": "10+",
+        "master": "13",
         "remaster": null
       }
     },
@@ -5412,10 +5412,10 @@
         "remaster": null
       },
       "dx": {
-        "basic": null,
-        "advanced": null,
-        "expert": null,
-        "master": null,
+        "basic": 4.0,
+        "advanced": 7.8,
+        "expert": 10.9,
+        "master": 13.3,
         "remaster": null
       }
     },
@@ -5427,13 +5427,13 @@
       ]
     },
     "tags": [
-      "GreeN",
       "VOCALOID™",
       "niconico",
       "niconico＆VOCALOID™",
       "wowaka",
       "一笔画",
       "大位移",
+      "舞萌DX 2026",
       "诈称谱"
     ]
   },
@@ -89639,6 +89639,641 @@
       "舞萌DX 2026",
       "音击",
       "音击/中二节奏"
+    ]
+  },
+  {
+    "id": 11864,
+    "std_id": null,
+    "dx_id": 11864,
+    "title": "少女レイ",
+    "artist": "みきとP",
+    "category": "niconico＆VOCALOID™",
+    "version": "舞萌DX 2026",
+    "aliases": [
+      "少女レイ"
+    ],
+    "image_file": "eda5cd3954117b53.png",
+    "difficulty": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": "2",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "12+",
+        "remaster": null
+      }
+    },
+    "ds": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": 2.0,
+        "advanced": 6.5,
+        "expert": 9.9,
+        "master": 12.9,
+        "remaster": null
+      }
+    },
+    "chart_tags": {},
+    "tags": [
+      "VOCALOID™",
+      "niconico",
+      "niconico＆VOCALOID™",
+      "みきとP",
+      "舞萌DX 2026"
+    ]
+  },
+  {
+    "id": 11865,
+    "std_id": null,
+    "dx_id": 11865,
+    "title": "少女A",
+    "artist": "椎名もた",
+    "category": "niconico＆VOCALOID™",
+    "version": "舞萌DX 2026",
+    "aliases": [
+      "少女A",
+      "少女a"
+    ],
+    "image_file": "4ef4e7537385b42b.png",
+    "difficulty": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": "2",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "13",
+        "remaster": null
+      }
+    },
+    "ds": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": 2.0,
+        "advanced": 6.2,
+        "expert": 9.9,
+        "master": 13.3,
+        "remaster": null
+      }
+    },
+    "chart_tags": {},
+    "tags": [
+      "VOCALOID™",
+      "niconico",
+      "niconico＆VOCALOID™",
+      "椎名もた",
+      "舞萌DX 2026"
+    ]
+  },
+  {
+    "id": 11866,
+    "std_id": null,
+    "dx_id": 11866,
+    "title": "帝国少女",
+    "artist": "R Sound Design",
+    "category": "niconico＆VOCALOID™",
+    "version": "舞萌DX 2026",
+    "aliases": [
+      "帝国少女"
+    ],
+    "image_file": "edede17463c2cb20.png",
+    "difficulty": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": "2",
+        "advanced": "6",
+        "expert": "9",
+        "master": "13",
+        "remaster": null
+      }
+    },
+    "ds": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": 2.0,
+        "advanced": 6.0,
+        "expert": 9.2,
+        "master": 13.3,
+        "remaster": null
+      }
+    },
+    "chart_tags": {},
+    "tags": [
+      "R Sound Design",
+      "VOCALOID™",
+      "niconico",
+      "niconico＆VOCALOID™",
+      "舞萌DX 2026"
+    ]
+  },
+  {
+    "id": 11857,
+    "std_id": null,
+    "dx_id": 11857,
+    "title": "空回りライブラリ",
+    "artist": "雪乃イト",
+    "category": "niconico＆VOCALOID™",
+    "version": "舞萌DX 2026",
+    "aliases": [
+      "空回りライブラリ"
+    ],
+    "image_file": "143a62b2d78eca40.png",
+    "difficulty": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": "3",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "12+",
+        "remaster": null
+      }
+    },
+    "ds": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": 3.0,
+        "advanced": 6.5,
+        "expert": 9.7,
+        "master": 12.8,
+        "remaster": null
+      }
+    },
+    "chart_tags": {},
+    "tags": [
+      "VOCALOID™",
+      "niconico",
+      "niconico＆VOCALOID™",
+      "舞萌DX 2026",
+      "雪乃イト"
+    ]
+  },
+  {
+    "id": 11874,
+    "std_id": null,
+    "dx_id": 11874,
+    "title": "NO ONE YES MAN",
+    "artist": "MYUKKE.",
+    "category": "其他游戏",
+    "version": "舞萌DX 2026",
+    "aliases": [
+      "NO ONE YES MAN",
+      "no one yes man"
+    ],
+    "image_file": "2292348c921213b0.png",
+    "difficulty": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": "3",
+        "advanced": "7+",
+        "expert": "12",
+        "master": "13+",
+        "remaster": null
+      }
+    },
+    "ds": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": 3.0,
+        "advanced": 7.7,
+        "expert": 12.0,
+        "master": 13.9,
+        "remaster": null
+      }
+    },
+    "chart_tags": {},
+    "tags": [
+      "MYUKKE.",
+      "其他游戏",
+      "舞萌DX 2026"
+    ]
+  },
+  {
+    "id": 11875,
+    "std_id": null,
+    "dx_id": 11875,
+    "title": "Leave All Behind",
+    "artist": "rider",
+    "category": "其他游戏",
+    "version": "舞萌DX 2026",
+    "aliases": [
+      "Leave All Behind",
+      "leave all behind"
+    ],
+    "image_file": "07c863cf04ef6f93.png",
+    "difficulty": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": "3",
+        "advanced": "6",
+        "expert": "11",
+        "master": "13+",
+        "remaster": null
+      }
+    },
+    "ds": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": 3.0,
+        "advanced": 6.8,
+        "expert": 11.2,
+        "master": 13.8,
+        "remaster": null
+      }
+    },
+    "chart_tags": {},
+    "tags": [
+      "rider",
+      "其他游戏",
+      "舞萌DX 2026"
+    ]
+  },
+  {
+    "id": 11856,
+    "std_id": null,
+    "dx_id": 11856,
+    "title": "MIRA",
+    "artist": "Kanaria",
+    "category": "niconico＆VOCALOID™",
+    "version": "舞萌DX 2026",
+    "aliases": [
+      "MIRA",
+      "mira"
+    ],
+    "image_file": "35ca863f15d7624f.png",
+    "difficulty": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": "2",
+        "advanced": "6",
+        "expert": "9",
+        "master": "12+",
+        "remaster": null
+      }
+    },
+    "ds": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": 2.0,
+        "advanced": 6.0,
+        "expert": 9.5,
+        "master": 12.9,
+        "remaster": null
+      }
+    },
+    "chart_tags": {},
+    "tags": [
+      "Kanaria",
+      "VOCALOID™",
+      "niconico",
+      "niconico＆VOCALOID™",
+      "舞萌DX 2026"
+    ]
+  },
+  {
+    "id": 11859,
+    "std_id": null,
+    "dx_id": 11859,
+    "title": "ありきたりな恋の歌",
+    "artist": "GYARI",
+    "category": "niconico＆VOCALOID™",
+    "version": "舞萌DX 2026",
+    "aliases": [
+      "ありきたりな恋の歌"
+    ],
+    "image_file": "d089a333ff0c746d.png",
+    "difficulty": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": "4",
+        "advanced": "7",
+        "expert": "10",
+        "master": "13+",
+        "remaster": null
+      }
+    },
+    "ds": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": 4.0,
+        "advanced": 7.5,
+        "expert": 10.5,
+        "master": 13.8,
+        "remaster": null
+      }
+    },
+    "chart_tags": {},
+    "tags": [
+      "GYARI",
+      "VOCALOID™",
+      "niconico",
+      "niconico＆VOCALOID™",
+      "舞萌DX 2026"
+    ]
+  },
+  {
+    "id": 11826,
+    "std_id": null,
+    "dx_id": 11826,
+    "title": "Lover's Trick",
+    "artist": "litmus*",
+    "category": "音击/中二节奏",
+    "version": "舞萌DX 2026",
+    "aliases": [
+      "Lover's Trick",
+      "lover's trick"
+    ],
+    "image_file": "a1e1854c51cf78ac.png",
+    "difficulty": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": "3",
+        "advanced": "7",
+        "expert": "10+",
+        "master": "13+",
+        "remaster": null
+      }
+    },
+    "ds": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": 3.0,
+        "advanced": 7.0,
+        "expert": 10.8,
+        "master": 13.7,
+        "remaster": null
+      }
+    },
+    "chart_tags": {},
+    "tags": [
+      "litmus*",
+      "中二节奏",
+      "舞萌DX 2026",
+      "音击",
+      "音击/中二节奏"
+    ]
+  },
+  {
+    "id": 11858,
+    "std_id": null,
+    "dx_id": 11858,
+    "title": "お呪い",
+    "artist": "なきそ",
+    "category": "niconico＆VOCALOID™",
+    "version": "舞萌DX 2026",
+    "aliases": [
+      "お呪い"
+    ],
+    "image_file": "25f700cd2c5eb52b.png",
+    "difficulty": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": "2",
+        "advanced": "6",
+        "expert": "10",
+        "master": "13",
+        "remaster": null
+      }
+    },
+    "ds": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": 2.0,
+        "advanced": 6.2,
+        "expert": 10.2,
+        "master": 13.0,
+        "remaster": null
+      }
+    },
+    "chart_tags": {},
+    "tags": [
+      "VOCALOID™",
+      "niconico",
+      "niconico＆VOCALOID™",
+      "なきそ",
+      "舞萌DX 2026"
+    ]
+  },
+  {
+    "id": 11877,
+    "std_id": null,
+    "dx_id": 11877,
+    "title": "Luminescence",
+    "artist": "米虾Fomiki & 初云CLoudie",
+    "category": "其他游戏",
+    "version": "舞萌DX 2026",
+    "aliases": [
+      "Luminescence",
+      "luminescence"
+    ],
+    "image_file": "9c6ba4b62558b06a.png",
+    "difficulty": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": "4",
+        "advanced": "7+",
+        "expert": "11",
+        "master": "13+",
+        "remaster": null
+      }
+    },
+    "ds": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": 4.0,
+        "advanced": 7.6,
+        "expert": 11.2,
+        "master": 13.8,
+        "remaster": null
+      }
+    },
+    "chart_tags": {},
+    "tags": [
+      "其他游戏",
+      "米虾Fomiki & 初云CLoudie",
+      "舞萌DX 2026"
+    ]
+  },
+  {
+    "id": 11876,
+    "std_id": null,
+    "dx_id": 11876,
+    "title": "Retribution ～ Cycle of Redemption ～",
+    "artist": "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)",
+    "category": "其他游戏",
+    "version": "舞萌DX 2026",
+    "aliases": [
+      "Retribution ～ Cycle of Redemption ～",
+      "retribution ～ cycle of redemption ～"
+    ],
+    "image_file": "bed54ad3ef5fea33.png",
+    "difficulty": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": "6",
+        "advanced": "8",
+        "expert": "13",
+        "master": "14",
+        "remaster": null
+      }
+    },
+    "ds": {
+      "standard": {
+        "basic": null,
+        "advanced": null,
+        "expert": null,
+        "master": null,
+        "remaster": null
+      },
+      "dx": {
+        "basic": 6.0,
+        "advanced": 8.0,
+        "expert": 13.0,
+        "master": 14.4,
+        "remaster": null
+      }
+    },
+    "chart_tags": {},
+    "tags": [
+      "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)",
+      "其他游戏",
+      "舞萌DX 2026"
     ]
   }
 ]

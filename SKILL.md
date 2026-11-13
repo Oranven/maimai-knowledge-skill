@@ -5,7 +5,7 @@ description: 舞萌DX歌曲知识库查询和分析。使用当用户询问舞�
 
 # 舞萌DX歌曲知识库
 
-当前知识库为国服 CN1.56-E：1294 条歌曲记录、1293 个唯一标题、5520 张常规谱面。定数与显示等级已按 OneCat 官方谱面站刷新，5520 张谱面全部带精确定数。优先使用 `songs.json` 和 `level_index.json`，同名曲按艺术家区分。
+当前知识库为国服 CN1.56-F：1306 条歌曲记录、1305 个唯一标题、5572 张常规谱面。定数与显示等级已按 OneCat 官方谱面站刷新，5572 张谱面全部带精确定数。优先使用 `songs.json` 和 `level_index.json`，同名曲按艺术家区分。
 
 这是一个专门用于查询和分析舞萌DX歌曲数据的skill，集成 [maimai-py](https://github.com/TrueRou/maimai.py) SDK 支持实时查分功能。
 
